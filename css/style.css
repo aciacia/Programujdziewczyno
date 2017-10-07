@@ -180,6 +180,7 @@ nav {
 .plan-description {
   height: 70rem;
   margin-top: 4rem;
+    font-weight: 200;
 }
 
 .plan-description h3 {
